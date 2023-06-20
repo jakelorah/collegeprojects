@@ -1,2 +1,2 @@
 # collegeprojects
-Projects that I completed throughout college so far.
+Projects that I completed throughout college.
